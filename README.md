@@ -1,10 +1,13 @@
 **😁🧬👋 Hello there!**
+
 I'm Emmanuel Ogheneovo Awefada, a passionate Frontend Engineer with a flair for crafting seamless user experiences and pixel-perfect interfaces. 💻 As a driven developer, I specialize in HTML, CSS, and JavaScript, leveraging the latest frontend frameworks like React to build dynamic and responsive web applications. 🚀 With a keen eye for design and a love for clean code, I strive to create engaging and accessible digital solutions that leave a lasting impact.
 
 **⌛🛡 Mission:**
+
 🎯 My mission is to empower users through intuitive and captivating frontend experiences. By merging creativity with cutting-edge technologies, I aim to bridge the gap between functionality and aesthetics, enhancing user interactions and delighting audiences across the digital landscape.
 
 **📎🌱 Vision:**
+
 🌟 My vision is to be at the forefront of innovation in frontend development, contributing to projects that redefine the boundaries of user-centric design and seamless navigation. I aspire to collaborate with like-minded individuals to create impactful and sustainable solutions that elevate the way people engage with technology.
 
 **🌍 Get in touch**
