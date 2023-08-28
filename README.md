@@ -1,6 +1,6 @@
 **😁🧬👋 Hello there!**
 
-I'm Emmanuel Ogheneovo Awefada, a passionate Frontend Engineer with a flair for crafting seamless user experiences and pixel-perfect interfaces. 💻 As a driven developer, I specialize in HTML, CSS, and JavaScript, leveraging the latest frontend frameworks like React to build dynamic and responsive web applications. 🚀 With a keen eye for design and a love for clean code, I strive to create engaging and accessible digital solutions that leave a lasting impact.
+I'm Emmanuel Ogheneovo Awefada, a passionate Frontend Engineer with a flair for crafting seamless user experiences and pixel-perfect interfaces. 💻 As a driven developer, I specialize in HTML, CSS, and JavaScript, leveraging frontend libraries like React.js and frameworks like Next.js to build dynamic and responsive web applications. 🚀 With a keen eye for design and a love for clean code, I strive to create engaging and accessible digital solutions that leave a lasting impact.
 
 **⌛🛡 Mission:**
 
@@ -13,9 +13,9 @@ I'm Emmanuel Ogheneovo Awefada, a passionate Frontend Engineer with a flair for 
 **🌍 Get in touch**
 - 🔗 Facebook: https://www.facebook.com/jordantechsolutions
 - 🔗 Twitter: https://twitter.com/mannu_awefada
-- ✍ Blog: https://jordantech-solutions.com
+- ✍ Blog: https://emmanuelovo.pro
 - 🎮 Twitch: https://www.twitch.tv/waris_hell
 - 📹 Youtube: https://www.youtube.com/@Game_Chameleon/videos
 - 📹 Youtube: https://jordantech-solutions.com
 
-Let's connect and collaborate on exciting projects that drive positive change in the digital realm! Feel free to explore my repositories and reach out for creative adventures. #FrontendEngineer #UserExperience #WebDevelopment #ReactJS #PassionateCoder #CleanCodeEnthusiast #CreativeMind #DesignDriven #UIUX #DigitalInnovation #TechExplorer
+Let's connect and collaborate on exciting projects that drive positive change in the digital realm! Feel free to explore my repositories and reach out for creative adventures. #FrontendEngineer #UserExperience #WebDevelopment #ReactJS #NextJS #PassionateCoder #CleanCodeEnthusiast #CreativeMind #DesignDriven #UIUX #DigitalInnovation #TechExplorer
