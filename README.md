@@ -1,6 +1,6 @@
 **😁🧬👋 Hello there!**
 
-I'm Emmanuel Ogheneovo Awefada, a passionate Frontend Engineer with a flair for crafting seamless user experiences and pixel-perfect interfaces. 💻 As a driven developer, I specialize in HTML, CSS, and JavaScript, leveraging frontend libraries like React.js and frameworks like Next.js to build dynamic and responsive web applications. 🚀 With a keen eye for design and a love for clean code, I strive to create engaging and accessible digital solutions that leave a lasting impact.
+I'm Emmanuel Ogheneovo Awefada, a passionate Frontend Engineer with a flair for crafting seamless user experiences and pixel-perfect interfaces. As a driven developer, I specialize in HTML, CSS, and JavaScript, leveraging frontend libraries like React.js and frameworks like Next.js to build dynamic and responsive web applications. With a keen eye for design and a love for clean code, I strive to create engaging and accessible digital solutions that leave a lasting impact.
 
 **⌛🛡 Mission:**
 
