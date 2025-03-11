@@ -11,12 +11,11 @@ I'm Emmanuel Ogheneovo Awefada, a passionate Frontend Engineer with a flair for 
 My vision is to be at the forefront of innovation in front-end development, contributing to projects that redefine the boundaries of user-centric design and seamless navigation. I aspire to collaborate with like-minded individuals to create impactful and sustainable solutions that elevate the way people engage with technology.
 
 **🌍 Get in touch**
-- 🔗 Facebook: https://www.facebook.com/jordantechsolutions
-- 🔗 Twitter: https://twitter.com/mannu_awefada
-- ✍ Blog: https://emmanuelovo.pro
-- 🎮 Twitch: https://www.twitch.tv/waris_hell
-- 📹 Youtube: https://www.youtube.com/@Game_Chameleon/videos
-- 📹 Youtube: http://www.youtube.com/@jordanovo_official
+- ✍ Website: https://emmanuelovo.pro
+- 🎮 Twitch: https://www.twitch.tv/kyomu_no_kishi
+- 📹 Youtube: https://www.youtube.com/@kyomu_no_kishi
+- 📹 Youtube: https://www.youtube.com/@j.e_justdoit
 - 📹 Youtube: http://www.youtube.com/@sageJ.S
+- 🔗 Twitter: https://twitter.com/mannu_awefada
 
 Let's connect and collaborate on exciting projects that drive positive change in the digital realm! Feel free to explore my repositories and reach out for creative adventures. #FrontendEngineer #UserExperience #WebDevelopment #ReactJS #NextJS #PassionateCoder #CleanCodeEnthusiast #CreativeMind #DesignDriven #UIUX #DigitalInnovation #TechExplorer
